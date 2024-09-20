@@ -7,12 +7,12 @@
             "birthday": 780710400000,
             "_id": "5539fb8c032b2b237059a5f4"
         },
-        "id": "5539fb8c032b2b237059a5f4_9223370310149930818_tr",
+        "id": "5539fb8c032b2b237059a5f4_9223370310062828556_tr",
         "feel": 0,
-        "calorie": 282,
-        "duration": 1264,
-        "startTime": 1726703575231,
-        "endTime": 1726704844989,
+        "calorie": 173,
+        "duration": 1262,
+        "startTime": 1726790684789,
+        "endTime": 1726791947251,
         "type": "training",
         "subtype": "normal",
         "timezone": "Asia/Shanghai",
@@ -26,8 +26,8 @@
             "place": null,
             "stateValue": 0,
             "stars": 0,
-            "exist": false,
-            "public": false
+            "public": false,
+            "exist": false
         },
         "eventInfos": [],
         "liveSessionId": null,
@@ -48,10 +48,10 @@
             "deviceModel": null,
             "vendorRecordId": null
         },
-        "planId": "6551a488e773fe0001ec0770",
-        "workoutId": "6551a488e773fe0001ec0751",
-        "workoutFinishTimes": 3,
-        "workoutName": "20 分钟全方位甩脂 · 告别赘肉",
+        "planId": "668bbc4e8e9af30001ad4d4a",
+        "workoutId": "668bbc4e8e9af30001ad4d4c",
+        "workoutFinishTimes": 1,
+        "workoutName": "20 分钟站立畅爽跟练 · 瘦全身",
         "workoutSource": null,
         "scheduleName": null,
         "status": 20,
@@ -96,8 +96,8 @@
                 "weightKG": null
             },
             {
-                "exercise": "62e221169840110001b4b325",
-                "name": "原地跑后踢腿",
+                "exercise": "5cb2ef85e7ea5d67b09fdc47",
+                "name": "合掌跳",
                 "type": "countdown",
                 "actualRep": 0,
                 "actualSec": 25,
@@ -112,8 +112,8 @@
                 "weightKG": null
             },
             {
-                "exercise": "63a5105286e6990001231ef6",
-                "name": "提肘侧弓步跳",
+                "exercise": "63a51ddc86e699000124a8de",
+                "name": "左右小跳",
                 "type": "countdown",
                 "actualRep": 0,
                 "actualSec": 30,
@@ -144,8 +144,8 @@
                 "weightKG": null
             },
             {
-                "exercise": "62e2261293b6420001c638fe",
-                "name": "开合跳",
+                "exercise": "5d523902e381081f4483a1bd",
+                "name": "交替提膝跳击掌",
                 "type": "countdown",
                 "actualRep": 0,
                 "actualSec": 30,
@@ -160,8 +160,8 @@
                 "weightKG": null
             },
             {
-                "exercise": "63a5124486e69900012357f9",
-                "name": "弹踢腿跳",
+                "exercise": "56038745331e338262f3d2b1",
+                "name": "左右交叉小跳",
                 "type": "countdown",
                 "actualRep": 0,
                 "actualSec": 30,
@@ -256,8 +256,8 @@
                 "weightKG": null
             },
             {
-                "exercise": "63a51ddc86e699000124a8de",
-                "name": "左右小跳",
+                "exercise": "56038745331e338262f3d2b1",
+                "name": "左右交叉小跳",
                 "type": "countdown",
                 "actualRep": 0,
                 "actualSec": 30,
@@ -288,8 +288,8 @@
                 "weightKG": null
             },
             {
-                "exercise": "63a5105286e6990001231ef6",
-                "name": "提肘侧弓步跳",
+                "exercise": "63a51ddc86e699000124a8de",
+                "name": "左右小跳",
                 "type": "countdown",
                 "actualRep": 0,
                 "actualSec": 30,
@@ -320,8 +320,8 @@
                 "weightKG": null
             },
             {
-                "exercise": "62e2261293b6420001c638fe",
-                "name": "开合跳",
+                "exercise": "5d523902e381081f4483a1bd",
+                "name": "交替提膝跳击掌",
                 "type": "countdown",
                 "actualRep": 0,
                 "actualSec": 30,
@@ -336,8 +336,8 @@
                 "weightKG": null
             },
             {
-                "exercise": "63a5124486e69900012357f9",
-                "name": "弹踢腿跳",
+                "exercise": "56038745331e338262f3d2b1",
+                "name": "左右交叉小跳",
                 "type": "countdown",
                 "actualRep": 0,
                 "actualSec": 30,
@@ -432,8 +432,8 @@
                 "weightKG": null
             },
             {
-                "exercise": "634184ba6b918e0001d4b97c",
-                "name": "跷脚跳",
+                "exercise": "5cb2ed14e7ea5d67b09fdb39",
+                "name": "勾腿跳",
                 "type": "countdown",
                 "actualRep": 0,
                 "actualSec": 30,
@@ -547,7 +547,7 @@
         "exerciseCount": 30,
         "exerciseFinishTimes": 0,
         "exerciseName": null,
-        "courseSchema": "keep://plans/6551a488e773fe0001ec0770",
+        "courseSchema": "keep://plans/668bbc4e8e9af30001ad4d4a",
         "gymInfo": null,
         "kitTofRes": null,
         "kitPuncheurInfo": null
