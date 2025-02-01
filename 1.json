@@ -7,14 +7,14 @@
             "birthday": 780710400000,
             "_id": "5539fb8c032b2b237059a5f4"
         },
-        "id": "5539fb8c032b2b237059a5f4_9223370299148790070_tr",
+        "id": "5539fb8c032b2b237059a5f4_9223370298591957757_tr",
         "feel": 3,
-        "calorie": 63,
-        "duration": 1225,
-        "startTime": 1737704759971,
-        "endTime": 1737705985737,
+        "calorie": 14,
+        "duration": 255,
+        "startTime": 1738262562812,
+        "endTime": 1738262818050,
         "type": "training",
-        "subtype": "ball",
+        "subtype": "normal",
         "timezone": "Africa/Johannesburg",
         "richText": "",
         "entryInfo": {
@@ -26,8 +26,8 @@
             "place": null,
             "stateValue": 0,
             "stars": 0,
-            "exist": false,
-            "public": false
+            "public": false,
+            "exist": false
         },
         "eventInfos": [],
         "liveSessionId": null,
@@ -36,12 +36,12 @@
         "doubtfulScore": 0.0,
         "flags": [],
         "heartRate": {
-            "heartRates": "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",
-            "averageHeartRate": 81.0,
-            "maxHeartRate": 107,
+            "heartRates": "H4sIAAAAAAAAE62XvWrDMBSF9zyFyZxBV9Zvtz5AIXvp4IILgaaU2oFC6btXTjJ0+Lzc68HL8fBxdK50pOdd1/20r+v2p+k4XKZx3z10b8P7NB5u8us4zNNx/Ho6fVzm619xcv83n87jNA/nz6ss/p/8+H2a7moTfw8qTiCOL8RpqpZTM2H6njBNVWMiYhJikh7TEyZ4wjRVjcFsQkBM0GMqYipiqmHUcNUijlrUj9oaB/1Eix+MJ2E8SR+PONw7Cf0ki59CnIx+ssVPQg76yRY/yCk4b8Uyb7huFY/qajmqmYP5VEs+zMF8qj4fPkRFHFec2/h8E58R1ORtS0567IVF3hqEPSeWosNRkMAZhc0z4q4TQ9mJc0iKHFLUh7TSQxI5pahPaZWEW1ZMnYcXLOHSE1PrcU6Zc8qGzcQ37Yw9schqEDsq7KjoHRXeTNx8Yqi+wsdD4bkr+rkreNWSyo6qwRE/hxyW+SJvDcKNtMhbgzCjRdaCMg6Db0cogZqsdoQb1gs7EsPUMWjlcWx4Ha9kxM9jb3gfFzy+fc+OeoMjbCTPT2RveCOvLB1fHLzh4rCydJEzireMdi9/Gy3y1/0RAAA=",
+            "averageHeartRate": 95.0,
+            "maxHeartRate": 108,
             "wearableDevices": [
                 {
-                    "macAddress": "FE292194-CAB8-4B36-A1A1-A1570662DF2B",
+                    "macAddress": "25371D90-B501-40B9-B8A6-001231DBE6ED",
                     "name": "Apple Watch Series 9",
                     "deviceType": "Apple Watch"
                 }
@@ -64,46 +64,8 @@
         "feedback": null,
         "feedbacks": null,
         "playType": null,
-        "dataType": "badminton",
-        "badgeAchievementCard": {
-            "cardName": "运动成就徽章",
-            "cardType": "BADGE_ACHIEVEMENT_CARD",
-            "data": {
-                "jumpHomeUrl": "https://m.gotokeep.com/glory-page/badge/home?fullscreen=true&userId=5539fb8c032b2b237059a5f4&visitUserId=5539fb8c032b2b237059a5f4&refer=complete_card",
-                "showCard": true,
-                "bindProduct": "0",
-                "badgeIdList": "674b36803dca2a0001bf4236",
-                "cardList": [
-                    {
-                        "badgeId": "674b36803dca2a0001bf4236",
-                        "badgeType": null,
-                        "name": "一月挑战 Lv1",
-                        "status": null,
-                        "desc": "2025 年一月在 Keep 累计运动 3 天可达成",
-                        "picture": "https://static1.keepcdn.com/glory-cms/2025/1/10/1736490774870hlp6yx5c_720x720.png",
-                        "notAchievePicture": null,
-                        "modelUrl": null,
-                        "condition": null,
-                        "conditionEvent": null,
-                        "metric": null,
-                        "totalValue": null,
-                        "startTime": 0,
-                        "endTime": 0,
-                        "userId": null,
-                        "overValue": null,
-                        "percent": null,
-                        "progress": null,
-                        "doneTime": 1737684385737,
-                        "showMsg": "新达成",
-                        "schema": "https://m.gotokeep.com/glory-page/badge/detail?fullscreen=true&userId=5539fb8c032b2b237059a5f4&refer=complete_card&badgeId=674b36803dca2a0001bf4236&curOrder=1&badgeType=month",
-                        "trainType": "training",
-                        "productId": null,
-                        "bindProduct": "0",
-                        "sort": 0
-                    }
-                ]
-            }
-        },
+        "dataType": "mixedAerobicTraining",
+        "badgeAchievementCard": null,
         "trainingCourseType": "workout",
         "trainingSource": "others",
         "groups": [],
